@@ -103,3 +103,5 @@ table(binom1)/n
 ## Prepackaged data
 data("mtcars")
 str(mtcars)
+
+## Explore!
